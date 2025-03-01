@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educare Marketplace</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="webcrumbs">
+        <div class="container">
+            <!-- Header -->
+            <header>
+                <div class="header-content">
+                    <h1>Educare</h1>
+                    <input type="text" id="search-bar" placeholder="Search for textbooks, stationery, etc." aria-label="Search">
+                </div>
+            </header>
+            
+            <!-- Main Content -->
+            <main>
+                <h2>Student Marketplace</h2>
+                <div class="content">
+                    <!-- Sidebar Filters -->
+                    <aside class="filters">
+                        <h3>Filter Results</h3>
+                        <div>
+                            <h4>Categories</h4>
+                            <label for="textbooks"><input type="checkbox" id="textbooks"> Textbooks</label><br>
+                            <label for="stationery"><input type="checkbox" id="stationery"> Stationery</label><br>
+                            <label for="electronics"><input type="checkbox" id="electronics"> Electronics</label><br>
+                        </div>
+                        <button id="apply-filters">Apply Filters</button>
+                    </aside>
+                    
+                    <!-- Product Listings -->
+                    <section class="product-list">
+                        <h3>Featured Items</h3>
+                        <div class="products">
+                            <div class="product-item">Calculus Textbook - $45</div>
+                            <div class="product-item">Scientific Calculator - $75</div>
+                            <div class="product-item">Stationery Bundle - $25</div>
+                        </div>
+                    </section>
+                </div>
+            </main>
+            
+            <!-- Footer -->
+            <footer>
+                <p>© 2025 Educare. A student marketplace.</p>
+            </footer>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educare Marketplace</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="webcrumbs">
+        <div class="container">
+            <!-- Header -->
+            <header>
+                <div class="header-content">
+                    <h1>Educare</h1>
+                    <input type="text" id="search-bar" placeholder="Search for textbooks, stationery, etc." aria-label="Search">
+                </div>
+            </header>
+            
+            <!-- Main Content -->
+            <main>
+                <h2>Student Marketplace</h2>
+                <div class="content">
+                    <!-- Sidebar Filters -->
+                    <aside class="filters">
+                        <h3>Filter Results</h3>
+                        <div>
+                            <h4>Categories</h4>
+                            <label for="textbooks"><input type="checkbox" id="textbooks"> Textbooks</label><br>
+                            <label for="stationery"><input type="checkbox" id="stationery"> Stationery</label><br>
+                            <label for="electronics"><input type="checkbox" id="electronics"> Electronics</label><br>
+                        </div>
+                        <button id="apply-filters">Apply Filters</button>
+                    </aside>
+                    
+                    <!-- Product Listings -->
+                    <section class="product-list">
+                        <h3>Featured Items</h3>
+                        <div class="products">
+                            <div class="product-item">Calculus Textbook - $45</div>
+                            <div class="product-item">Scientific Calculator - $75</div>
+                            <div class="product-item">Stationery Bundle - $25</div>
+                        </div>
+                    </section>
+                </div>
+            </main>
+            
+            <!-- Footer -->
+            <footer>
+                <p>© 2025 Educare. A student marketplace.</p>
+            </footer>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
