@@ -30,7 +30,7 @@ Installation & Usage
 
 Clone the repository:
 
-git clone https://github.com/your-username/educare.git
+git clone https://github.com/Piyush050105/educare.git
 
 Navigate to the project folder:
 
